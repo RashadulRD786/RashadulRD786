@@ -12,7 +12,7 @@
 
 I'm a final-year **Software Engineering** student at **Universiti Teknologi Malaysia (UTM)**, currently working as an **AI Engineer Intern at Maxis**. I design and build systems that connect AI reasoning with real-world automation — not just implementing models, but architecting how they fit into workflows, infrastructure, and business problems.
 
-My work spans **LLM integration, intelligent automation, and applied ML**, with two oublished research papers at international conferences (**IEEE IEACon 2026** and **I-SOMET**) covering PCB defect detection.
+My work spans **LLM integration, intelligent automation, and applied ML**, with two published research papers at international conferences (**IEEE IEACon 2026** and **I-SOMET**) covering PCB defect detection.
 
 -  Currently building AI-enhanced automation systems at **Maxis**
 -  Focused on bridging **RPA + LLM agents** for intelligent process automation
